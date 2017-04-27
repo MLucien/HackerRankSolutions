@@ -1,2 +1,2 @@
 # HackerRankSolutions
-my answers to some of the hardest HackerRank algorithm problems. 
+My answers to some of the hardest HackerRank algorithm problems. 
